@@ -55,9 +55,13 @@ flutter:
     - family: Inria Serif
       fonts:
       - asset: assets/fonts/InriaSerif-Regular.ttf
+        weight: 400
       - asset: assets/fonts/InriaSerif-Bold.ttf
+        weight: 700
       - asset: assets/fonts/InriaSerif-Light.ttf
+        weight: 300
       - asset: assets/fonts/Heebo-VariableFont_wght.ttf
+        weight: 400
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
